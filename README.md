@@ -24,7 +24,7 @@ This project analyzes supermarket sales data to identify key business insights s
 - Matplotlib
 
 ## 📷 Visualizations
-### Revenue by City
+ ### Revenue by City
 ![Revenue by City](visuals/revenue_by_city.png)
 
 ### Revenue by Product Category
