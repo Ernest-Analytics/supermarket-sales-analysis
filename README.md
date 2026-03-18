@@ -35,3 +35,7 @@ This project analyzes supermarket sales data to identify key business insights s
 
 ## 🚀 Conclusion
 This analysis demonstrates how data can be cleaned, analyzed, and visualized to inform business decisions.
+
+## 📌 Author
+Ernest Kariuki  
+Aspiring Data Analyst
